@@ -1,0 +1,31 @@
+    .vermelho{
+        background-color: #cc0000; <!-- Define a classe vermelho como um fundo com o código #cc0000 -->
+    }
+    .laranja{
+        background-color: #ff9900; <!-- Define a classe laranja como um fundo com o código #ff9900 -->
+    }
+    .amarelo{
+        background-color: #ffff00; <!-- Define a classe amarelo como um fundo com o código #ffff00 -->
+    }
+	.verde{
+		background-color: #009933; <!-- Define a classe verde como um fundo com o código #009933 -->
+	}
+	.azul{
+		background-color: #0099ff; <!-- Define a classe azul como um fundo com o código #0099ff -->
+	}
+	.anil{
+		background-color: #000099; <!-- Define a classe anil como um fundo com o código #000099 -->
+	}
+	.violeta{
+		background-color: #6600ff; <!-- Define a classe violeta como um fundo com o código #6600ff -->
+	}
+	.branco{
+		color: #ffffff; <!-- Define a classe branco como cor das letras com o código #ffffff -->
+	}
+	body{
+		text-align: center; <!-- Define tudo o que está dentro do "body" como centrado -->
+	}
+	table{
+        margin-left: auto;
+        margin-right: auto; <!-- A tabela fica no meio do ecrã -->
+	}
