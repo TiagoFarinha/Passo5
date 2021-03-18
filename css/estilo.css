@@ -1,0 +1,31 @@
+    .vermelho{
+        background-color: #cc0000;
+    }
+    .laranja{
+        background-color: #ff9900;
+    }
+    .amarelo{
+        background-color: #ffff00;
+    }
+	.verde{
+		background-color: #009933;
+	}
+	.azul{
+		background-color: #0099ff;
+	}
+	.anil{
+		background-color: #000099;
+	}
+	.violeta{
+		background-color: #6600ff;
+	}
+	.branco{
+		color: #ffffff
+	}
+	body{
+		text-align: center;
+	}
+	table{
+        margin-left: auto;
+        margin-right: auto;
+	}
